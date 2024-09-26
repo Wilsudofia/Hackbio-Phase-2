@@ -29,6 +29,7 @@ Key molecular descriptors influencing bioactivity include:
 The scatter plot below shows a positive correlation between binding affinity and pIC50, indicating that compounds with stronger binding affinity tend to exhibit higher potency, helping to identify potent compounds and outliers. It provides insights into structure-activity relationships and guides optimization in drug discovery.
 
 ![Binding Affinity vs. pIC50](https://github.com/Wilsudofia/Hackbio-Phase-2/blob/main/Phase%202/pIC50%20VS%20Docking%20score.png)
+
 *Figure 3: Positive correlation between binding affinity and pIC50 values.*
 
 ## Conclusion
