@@ -30,7 +30,7 @@ The scatter plot below shows a positive correlation between binding affinity and
 
 ![Binding Affinity vs. pIC50](https://github.com/Wilsudofia/Hackbio-Phase-2/blob/main/Phase%202/pIC50%20VS%20Docking%20score.png)
 
-*Figure 3: Positive correlation between binding affinity and pIC50 values.*
+*Figure 1: Positive correlation between binding affinity and pIC50 values.*
 
 ## Conclusion
 This study successfully built a Random Forest model for predicting pIC50 values, demonstrating robust predictive power. Future work should focus on refining molecular descriptors and validating results experimentally to discover more potent cancer therapy compounds.
